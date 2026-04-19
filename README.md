@@ -7,20 +7,20 @@ rag-with-reranking A retrieval-augmented QA system with reranking and evaluation
 ---
 
 ## 🧠 Архитектура системы
-Запрос
-↓
-Retrieval (Dense + BM25)
-↓
-Топ-k документов
-↓
-Reranking (cross-encoder)
-↓
-Лучший контекст
-↓
-LLM (FLAN-T5)
-↓
-Ответ
 
+- Запрос  
+- ↓  
+- Retrieval (Dense + BM25)  
+- ↓  
+- Топ-k документов  
+- ↓  
+- Reranking (cross-encoder)  
+- ↓  
+- Лучший контекст  
+- ↓  
+- LLM (FLAN-T5)  
+- ↓  
+- Ответ
 
 ---
 
