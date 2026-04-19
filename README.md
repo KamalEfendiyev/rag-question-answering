@@ -84,9 +84,9 @@ rag-with-reranking A retrieval-augmented QA system with reranking and evaluation
 Пример:
 
 
-Overall Accuracy: 0.55
-Answered Accuracy: 0.69
-Answer Rate: 0.80
+- Overall Accuracy: 0.55
+- Answered Accuracy: 0.69
+- Answer Rate: 0.80
 
 
 ---
