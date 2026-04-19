@@ -65,8 +65,8 @@ rag-with-reranking A retrieval-augmented QA system with reranking and evaluation
 - MRR (Mean Reciprocal Rank)
 
 Пример:
-Dense MRR: 0.75
-Rerank MRR: 0.80
+- Dense MRR: 0.75
+- Rerank MRR: 0.80
 
 
 Реранкинг улучшает позицию релевантных документов.
